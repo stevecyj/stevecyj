@@ -37,6 +37,13 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
 <br />
+
+### Experience
+
+- 🙆‍♂️ Cross-department cooperation
+- 🖥 Development of system platform
+
+<br />
 <br />
 
 ---
@@ -67,7 +74,7 @@
 [twitter]: #
 [youtube]: #
 [instagram]: #
-[linkedin]: #
+[linkedin]: https://www.linkedin.com/in/steve-tsao-67620811b/
 [webdevplaylist]: #
 [jsplaylist]: #
 [cssplaylist]: #
